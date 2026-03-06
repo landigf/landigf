@@ -15,8 +15,6 @@ Key engineering work:
 
 Repo -> https://github.com/landigf/TORCS
 
----
-
 ### V2X Co-Pilot Data Platform
 Real-time data integration platform combining traffic and weather streams for vehicle assistance.
 
@@ -28,7 +26,6 @@ Key engineering work:
 
 Repo -> https://github.com/landigf/minervas-v2x-copilot-thesis
 
----
 
 ### ETH Entrepreneur Club Infrastructure
 Head of Engineering for internal infrastructure and developer tools.
