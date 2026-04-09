@@ -16,7 +16,7 @@ Key engineering work:
 - static site generation with full-text search and knowledge map
 - macOS LaunchAgent scheduling with idempotency guard
 
-[Repo](https://github.com/landigf/Broletter) · [Live site](https://landigf.github.io/Broletter/) · [Blog post](https://landigf.github.io/Broletter-post.html)
+[Repo](https://github.com/landigf/Broletter) · [Live site]([https://landigf.github.io/Broletter/](https://broletter-web-809582235088.europe-west6.run.app/)) · [Blog post](https://landigf.github.io/Broletter-post.html)
 
 ---
 
